@@ -11,4 +11,4 @@ Enter the location you want to check the weather for in the search field.
 Press the "Search" button.
 View the current weather information for the specified location.
 
-*USER INTERFACE :![Uploading Screenshot Weather.png…]()
+
